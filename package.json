@@ -1,0 +1,19 @@
+{
+  "name": "msbreader",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "gl-mat4": "^1.2.0",
+    "gl-matrix": "^3.4.3"
+  }
+}
